@@ -4,7 +4,7 @@ An Orange Pastel Themed Skin for Will Byers Graduation
 In order to create a site skin, you need to have an AO3 account and you need to be logged in.
 
 Copy the code provided here. There is a copy button at the top of the code box in github.
-(https://github.com/coldtothetouchh/Will-Byers-Graduation-AO3-Skin/blob/main/CSS%20Code)
+https://github.com/coldtothetouchh/Will-Byers-Graduation-AO3-Skin/blob/main/CSS%20Code
 Sign into AO3 if you haven't already. At the top of the page, tap on your username.
 From the dropdown menu that appears, tap on Dashboard.
 On your Dashboard, tap on the link called Skins.
