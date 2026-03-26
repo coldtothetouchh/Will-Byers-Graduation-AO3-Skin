@@ -14,7 +14,8 @@ https://github.com/coldtothetouchh/Will-Byers-Graduation-AO3-Skin/blob/main/CSS%
 8. Afterwards, scroll to the bottom of the page and tap on the button labelled Submit. This will save your site skin and take you to a new page where you can see the title of your skin as well as all of the code.
 9. On the site skin page, tap on the button labelled Use. You will now have this skin every time you're logged in on any device.
 
-SOME IMAGES
+SOME IMAGES (the header is a gif)
 
 ![2026-03-26 13 43 29](https://github.com/user-attachments/assets/a6958eb6-2f8c-4a7d-9c57-886723913c5f)
+![2026-03-22 21 49 29](https://github.com/user-attachments/assets/063fd35a-c715-4d42-8295-51988904ba59)
 ![2026-03-26 13 43 46](https://github.com/user-attachments/assets/8a636232-6ac0-4616-b08a-ee835047b9f8)
