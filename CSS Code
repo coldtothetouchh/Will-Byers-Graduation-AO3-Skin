@@ -22,7 +22,7 @@
 #outer.wrapper {
   background: #f7e4d2;
   padding-top: 10px;
-  background-image: url("https://i.postimg.cc/nh9BLfZ2/Orange-Vintage.jpg");
+  background-image: url("https://raw.githubusercontent.com/coldtothetouchh/Will-Byers-Graduation-AO3-Skin/refs/heads/main/Orange-Vintage.jpg");
   background-size: 30.7% auto;
   background-repeat: repeat;
   background-position: center top;
@@ -524,7 +524,7 @@ p.kudos::before {
   transform: translateX(-50%);
   width: 160px;
   height: 160px;
-  background: url("https://i.postimg.cc/15Fnwcn3/Crazy-Together.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Will-Byers-Graduation-AO3-Skin/refs/heads/main/Crazy-Together.png") no-repeat center center !important;
   background-size: contain !important;
   display: block !important;
   z-index: 1;
@@ -567,6 +567,6 @@ dd.kudos img,
   transform: translateX(-50%);
   width: 100px;
   height: 100px;
-  background: url("https://i.postimg.cc/15Fnwcn3/Crazy-Together.png") no-repeat center center !important;
+  background: url("https://raw.githubusercontent.com/coldtothetouchh/Will-Byers-Graduation-AO3-Skin/refs/heads/main/Crazy-Together.png") no-repeat center center !important;
   background-size: contain !important;
 }
